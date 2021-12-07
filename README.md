@@ -8,7 +8,6 @@ The fingerprint permission is needed for locking either hidden item visibility, 
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
 
 
 <div style="display:flex;">
